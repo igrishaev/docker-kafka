@@ -1,3 +1,8 @@
+**UPD**
+
+This is the forked and up-to-date version of Spotify Kafka which brings both
+Kafka and Zookeeper out from the box. To build it, just run `make`.
+
 Kafka in Docker
 ===
 
@@ -82,4 +87,3 @@ Todo
 
 * Not particularily optimzed for startup time.
 * Better docs
-
